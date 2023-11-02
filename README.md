@@ -1,0 +1,3 @@
+## Docker image for building and testing rbldnsd
+
+Maybe a productive image will eventually be here too...
